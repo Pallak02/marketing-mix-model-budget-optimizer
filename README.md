@@ -1,16 +1,14 @@
-# marketing-mix-model-budget-optimizer
-
 # Marketing Mix Model & Budget Optimization
 
-Overview
+# Overview
 
 Built a marketing mix model (MMM) to quantify channel-level ROI and simulate budget reallocation under constrained spend scenarios.
 
-Problem
+# Problem
 
 Marketing teams need to understand which channels drive incremental conversions and how to optimize budget allocation for maximum ROI.
 
-Methodology
+# Methodology
 
 Time-series regression modeling
 
@@ -20,10 +18,10 @@ Incremental lift estimation
 
 Budget reallocation simulation
 
-Tech Stack
+# Tech Stack
 
 Python (Pandas, NumPy, Statsmodels), Regression Modeling, Data Visualization
 
-Key Outcome
+# Key Outcome
 
 Designed a budget reallocation framework improving projected conversions by 8% under spend constraints.
